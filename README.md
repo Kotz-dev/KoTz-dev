@@ -24,4 +24,4 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KoTzJr&bg_color=0a0f0b&color=68b587&line=293409&point=91b302&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KoTz-dev&bg_color=0a0f0b&color=68b587&line=293409&point=91b302&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
